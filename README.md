@@ -12,11 +12,11 @@ Follow the steps below to run the server:
 
 Run a GET request using the format below:
 
-*You can either use https://mongodb-monitor.onrender.com/tick OR http://localhost:3000/tick*
+*You can either use https://mongodb-performance-monitor.onrender.com/tick OR http://localhost:3000/tick*
 
 # You can also use this dummy mongo database for testing purpose: 
 ```bash
-mongodb+srv://nkirevictor77:TuAzCAaUDmdp19df@cluster01.tyjeg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster01
+mongodb+srv://victornkire:vic08133232378@cluster0.xqm7v.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 ```
 ```bash
 curl --location 'http://localhost:3000/tick' \
